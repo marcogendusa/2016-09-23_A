@@ -3,7 +3,7 @@ package it.polito.tdp.gestionale.model;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Corso {
+public class Corso extends Nodo {
 
 	private List<Studente> studenti;
 	private String codins;

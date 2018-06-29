@@ -10,6 +10,7 @@ import java.util.List;
 import java.util.Map;
 
 import it.polito.tdp.gestionale.model.Corso;
+import it.polito.tdp.gestionale.model.Nodo;
 import it.polito.tdp.gestionale.model.Studente;
 
 public class DidatticaDAO {
